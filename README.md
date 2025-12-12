@@ -1,6 +1,6 @@
 # 💫 About Me
 
-## 📝 Professional Summary
+
 I am an aspiring **Data Scientist & Machine Learning Engineer**, currently pursuing a B.Tech in **Artificial Intelligence with IoT**.  
 I enjoy transforming data into insights and building intelligent systems that solve real-world problems.
 
