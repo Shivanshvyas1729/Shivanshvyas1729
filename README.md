@@ -51,4 +51,4 @@ Opportunity Open Source & Conference 2025
 
 📧 Email: shivanshvyas1729@gmail.com
 
-💼 LinkedIn: shivanshvyas
+💼 LinkedIn: shivanshvyas1729
