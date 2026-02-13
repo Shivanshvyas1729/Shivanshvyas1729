@@ -20,7 +20,7 @@
 
 ---
 
-## 🧠 Tech Stack  
+
 
 ## 🧠 Tech Stack  
 
@@ -74,12 +74,13 @@
 
 <p align="center">
   <a href="mailto:shivanshvyas1729@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-shivanshvyas1729@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/shivanshvyas1729/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/shivanshvyas/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Shivansh%20Vyas-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
+
 
 ---
 
