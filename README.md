@@ -1,54 +1,91 @@
-👋 Hi, I’m Shivansh Vyas
+<!-- ===================== PREMIUM ANIMATED HEADER ===================== -->
 
-🎓 B.Tech in Artificial Intelligence with IoT
-📊 Aspiring Data Scientist & Machine Learning Engineer
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=30&center=true&vCenter=true&width=800&lines=Hi+👋,+I'm+Shivansh+Vyas;Aspiring+Data+Scientist;Machine+Learning+Engineer;AI+%7C+ML+%7C+NLP+Enthusiast;Building+Intelligent+Systems+with+Data" />
+</p>
 
-I enjoy working with data, building machine learning models, and creating intelligent systems that solve real-world problems. I focus on practical learning through projects and continuous skill development.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Shivanshvyas1729&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
-🚀 What I Do
+---
 
-Build and train Machine Learning models
+## 🚀 About Me  
 
-Perform data analysis, EDA, and feature engineering
+🎓 B.Tech in Artificial Intelligence with IoT  
+📊 Focused on Machine Learning, Deep Learning & NLP  
+🔁 Building End-to-End ML Pipelines  
+☁️ Exploring MLOps & Cloud Deployment  
+💡 Passionate about solving real-world problems using AI  
 
-Learn and apply Natural Language Processing
+---
 
-Develop end-to-end ML projects
+## 🧠 Tech Stack  
 
-Explore MLOps and model deployment
+## 🧠 Tech Stack  
 
-🧠 Skills
+<p align="center">
 
-Machine Learning: Regression, Classification, Clustering
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 
-Deep Learning: ANN, CNN, RNN
+</p>
 
-Python: NumPy, Pandas, Scikit-learn
 
-Data Analysis: EDA, Feature Engineering
+---
 
-Visualization: Matplotlib, Seaborn, Plotly
+## 📌 Core Expertise  
 
-MLOps (Learning): MLflow, Docker, AWS S3/EC2
+✔ Machine Learning (Regression • Classification • Clustering)  
+✔ Deep Learning (ANN • CNN • RNN)  
+✔ Data Analysis & Feature Engineering  
+✔ NLP & Model Optimization  
+✔ Deployment using Docker & AWS  
 
-🎓 Education
+---
 
-B.Tech — Artificial Intelligence with IoT
-M.L.V Textile & Engineering College, Bhilwara (2023–2027)
+## 📊 GitHub Analytics  
 
-PW Skills — Data Science Program
-Machine Learning • Deep Learning • NLP (learning) • MLOps (learning)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shivanshvyas1729&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shivanshvyas1729&theme=tokyonight" height="165"/>
+</p>
 
-🏅 Certifications
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivanshvyas1729&layout=compact&theme=tokyonight"/>
+</p>
 
-AWS AI Foundation
+---
 
-PW Skills – Data Science
+## 🐍 Contribution Snake Animation  
 
-Opportunity Open Source & Conference 2025
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Shivanshvyas1729/Shivanshvyas1729/output/github-contribution-grid-snake.svg" />
+</p>
 
-🌐 Connect With Me
+---
 
-📧 Email: shivanshvyas1729@gmail.com
+## 🌐 Connect With Me  
 
-💼 LinkedIn: shivanshvyas1729
+<p align="center">
+  <a href="mailto:shivanshvyas1729@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/shivanshvyas1729/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  ⭐ Always Learning • 🚀 Always Building • 💡 Always Improving
+</p>
