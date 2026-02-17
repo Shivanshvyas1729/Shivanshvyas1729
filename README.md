@@ -79,6 +79,19 @@
   <a href="https://www.linkedin.com/in/shivanshvyas/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Shivansh%20Vyas-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+<p align="center">
+  <a href="https://leetcode.com/u/shivanshvyas1729/" target="_blank">
+    <img src="https://leetcard.jacoblin.cool/shivanshvyas1729?theme=dark&font=Baloo%202&ext=heatmap" height="300"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://leetcode.com/u/shivanshvyas1729/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-shivanshvyas1729-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+</p>
+
+  
 </p>
 
 
