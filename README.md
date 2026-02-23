@@ -7,7 +7,11 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Shivanshvyas1729&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
+  <a href="https://www.linkedin.com/in/shivanshvyas/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Shivansh%20Vyas-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 
+  
 ---
 
 ## 🚀 About Me  
