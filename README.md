@@ -13,7 +13,9 @@
 
   
 ---
+pending works:
 
+learning video analysis -> https://developer.nvidia.com/blog/free-self-paced-online-course-for-intelligent-video-analytics-now-available/
 ## 🚀 About Me  
 
 🎓 B.Tech in Artificial Intelligence with IoT  
