@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/Portfolio-Live_Site-00F7FF?style=flat-square&logo=vercel&logoColor=black" alt="Portfolio" />
   </a>
   &nbsp;
-  <a href="https://shorturl.at/rlKAY" target="_blank">
+  <a href="https://drive.google.com/file/d/1Zr7ah7doqdDLJnHuGROzVKdhVxtOHNyb/view" target="_blank">
     <img src="https://img.shields.io/badge/Resume-PDF-FFB703?style=flat-square&logo=adobeacrobatreader&logoColor=black" alt="Resume" />
   </a>
   &nbsp;
@@ -42,7 +42,7 @@ Title: Data Scientist | AI Engineer | GenAI Specialist
 Education: B.Tech in Computer Science (IoT) @ MLVTEC (2023 – 2027)
 Specialization: Generative AI, RAG Systems, Agentic AI, Deep Learning & MLOps
 Live Portfolio: https://my-personal-portfolio-ten-pearl.vercel.app/
-Resume Link: https://shorturl.at/rlKAY
+Resume Link: https://drive.google.com/file/d/1Zr7ah7doqdDLJnHuGROzVKdhVxtOHNyb/view
 Active Research: Real-time Multimodal Voice AI Agents, Vector Search & Autonomous LLM Workflows
 ```
 
@@ -353,7 +353,7 @@ Active Research: Real-time Multimodal Voice AI Agents, Vector Search & Autonomou
     <img src="https://img.shields.io/badge/🌐_Live_Portfolio-00F7FF?style=flat-square&logo=vercel&logoColor=black" />
   </a>
   &nbsp;
-  <a href="https://shorturl.at/rlKAY" target="_blank">
+  <a href="https://drive.google.com/file/d/1Zr7ah7doqdDLJnHuGROzVKdhVxtOHNyb/view" target="_blank">
     <img src="https://img.shields.io/badge/📄_Resume_PDF-FFB703?style=flat-square&logo=adobeacrobatreader&logoColor=black" />
   </a>
   &nbsp;
